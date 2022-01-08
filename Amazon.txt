@@ -1,0 +1,10 @@
+
+Person Details:
+First Name - Srinath
+Last Name - S
+Phone Number - 9994982171
+Email - sri@gmail.com
+Address - 
+City - Krishnagiri
+State - Tamilnadu
+Zip Code - 635104

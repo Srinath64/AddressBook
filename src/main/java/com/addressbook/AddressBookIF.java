@@ -22,4 +22,8 @@ public interface AddressBookIF {
 
     public void sortAddressBook(int sortingChoice);
 
+    public void writeToAddressBookFile();
+
+    public List<String> readDataFromFile();
+
 }
